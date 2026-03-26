@@ -1,10 +1,12 @@
 # Memory Game  
 Windows Forms Application | C#
+<img width="1366" height="768" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/cb0ea464-1253-4a86-a68a-cbd00647311b" />
 
 ---
 
 ## About the Game  
 A visual memory testing game. A grid of 25 squares is displayed. The system lights up a certain number of squares (configurable) in a distinct color (non‑black) for a specific duration. After the lights turn off, you must click the squares that were lit, in the correct order. Each correct attempt increases your score.
+<img width="1366" height="768" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/b8627935-5dbd-4747-9679-76f78ee7cf91" />
 
 ---
 
@@ -46,6 +48,9 @@ A visual memory testing game. A grid of 25 squares is displayed. The system ligh
 |              | - Total game time                                                        |
 |              | - Duration each square stays lit                                         |
 | Exit     | Closes the application.                                                  |
+
+
+<img width="1366" height="768" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/a547ce4c-11ba-492f-b0b0-e3f05582782d" />
 
 ---
 
